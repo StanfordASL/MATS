@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="img/MATS.png"/></p>
+<p align="center"><img width="70%" src="img/MATS.png"/></p>
 
 # MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control #
 This repository contains the code for the CoRL 2020 paper [MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control](https://arxiv.org/abs/2009.07517) by Boris Ivanovic, Amine Elhafsi, Guy Rosman, Adrien Gaidon, and Marco Pavone.
