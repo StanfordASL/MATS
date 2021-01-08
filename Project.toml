@@ -1,0 +1,10 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+OSQP = "ab2f91bb-94b4-55e3-9ba0-7f65df51de79"
+Parametron = "41fac6d6-0ffa-5bcc-b863-17dd4947be41"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"

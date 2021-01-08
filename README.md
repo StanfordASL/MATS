@@ -90,4 +90,13 @@ To change these commands for your own trained models, change the `--model` and `
 These scripts will print out metric values as well as produce csv files in the specified `--output_path` directory which can then be analyzed post-hoc.
 
 ## MATS + Model Predictive Control ##
-The MPC part of this codebase (written primarily in Julia) is still under construction/beautification. Stay tuned for updates along this front!
+The MPC part of this codebase was written primarily in Julia 1.2, which can be downloaded here [link](julialang.org). 
+
+### Environment Setup ###
+
+To setup the Julia environment and necessary dependencies, navigate to the root folder of the repository and run Julia from the terminal. In the Julia REPL, enter the Pkg REPL by pressing `]` and use the `activate .` command  to activate the working environment. Finally, use the `instantiate` command to install the necessary dependencies.
+
+### MPC Example ###
+An interactive notebook demonstrating an example of MATS + MPC implementation can be found within the `MPC/MPC_example` directory.
+
+
